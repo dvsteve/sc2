@@ -1,10 +1,6 @@
 {
 "articles":[
 {
-"source":{
-"id":null,
-"name":"TEST"
-},
 "author":"BoredGamer",
 "title":"Star CitizenNews|RoadmapUpdates,Recap&PTU3.2.1dPatch",
 "url":"https://youtu.be/ElwT7g5p1Ig",
@@ -12,10 +8,6 @@
 "urlToImage":"https://i.ytimg.com/vi/ElwT7g5p1Ig/hqdefault.jpg"
 },
 {
-"source":{
-"id":null,
-"name":"TEST"
-},
 "author":"BoredGamer",
 "title":"Star CitizenNews|RoadmapUpdates,Recap&PTU3.2.1dPatch",
 "url":"https://youtu.be/ElwT7g5p1Ig",
@@ -23,10 +15,6 @@
 "urlToImage":"https://i.ytimg.com/vi/ElwT7g5p1Ig/hqdefault.jpg"
 },
 {
-"source":{
-"id":null,
-"name":"TEST"
-},
 "author":"BoredGamer",
 "title":"Star CitizenNews|RoadmapUpdates,Recap&PTU3.2.1dPatch",
 "url":"https://youtu.be/ElwT7g5p1Ig",
@@ -34,10 +22,6 @@
 "urlToImage":"https://i.ytimg.com/vi/ElwT7g5p1Ig/hqdefault.jpg"
 },
 {
-"source":{
-"id":null,
-"name":"TEST"
-},
 "author":"BoredGamer",
 "title":"Star CitizenNews|RoadmapUpdates,Recap&PTU3.2.1dPatch",
 "url":"https://youtu.be/ElwT7g5p1Ig",
@@ -45,30 +29,18 @@
 "urlToImage":"https://i.ytimg.com/vi/ElwT7g5p1Ig/hqdefault.jpg"
 },
 {
-"source":{
-"id":null,
-"name":"TEST"
-},
 "author":"robertsspaceindustries.com",
 "title":"Star Citizen Poster - byOlaf - ORIGIN100Series",
 "url":"https://robertsspaceindustries.com/community/citizen-spotlight/11978-Star-Citizen-Poster-By-Olaf-ORIGIN-100Series",
 "urlToImage":"https://dto9r5vaiz7bu.cloudfront.net/l3ic8gqpstjwu/hub_large.jpg"
 },
 {
-"source":{
-"id":null,
-"name":"TEST"
-},
 "author":"gamefragger.com",
 "title":"TheLatest(AndPrettyShort)STAR CITIZEN Update Video Focuses On New Vehicles, Gear And Moons",
 "url":"https://gamefragger.com/pc/the-latest-and-pretty-short-star-citizen-update-video-focuses-on-new-vehicles-gear-and-moons-a10084",
 "urlToImage":"https://dto9r5vaiz7bu.cloudfront.net/l3ic8gqpstjwu/hub_large.jpg"
 },
 {
-"source":{
-"id":null,
-"name":"TEST"
-},
 "author":"mmorpg.com",
 "title":"AroundtheVerse -Dude, It's the Jul 12th Update",
 "url":"https://www.mmorpg.com/star-citizen/videos/around-the-verse-dude-its-the-july-12th-update-1000006082",
